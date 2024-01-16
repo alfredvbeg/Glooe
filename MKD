@@ -1,4 +1,4 @@
-# Simple program to find the largest of three numbers in Python
+# Simple program to find the largest of three numbers in Python2
 
 # Input from user
 num1 = float(input("Enter the first number: "))
